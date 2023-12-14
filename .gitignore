@@ -1,0 +1,8 @@
+# Streamlit 환경 설정
+/.streamlit/
+
+# Python 가상 환경
+myenv/
+
+# 환경 변수 파일
+/.env
